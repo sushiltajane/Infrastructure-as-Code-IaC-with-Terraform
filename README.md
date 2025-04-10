@@ -96,7 +96,8 @@ resource "docker_container" "nginx" {
 ## **📄 License**
 This project is licensed under the **MIT License**.
 
-![image](https://github.com/user-attachments/assets/a8982bcc-e1e5-490e-9994-afcbfa7986e4)
-![image](https://github.com/user-attachments/assets/ed51c79b-d11f-4017-98b2-d287fd889ba7)
+![image](https://github.com/user-attachments/assets/e9982670-4d6d-4437-ae78-f1c2b7b124a5)
+![image](https://github.com/user-attachments/assets/3680e1e3-e58a-4f8c-9d60-ec0506596f31)
+![image](https://github.com/user-attachments/assets/4945a469-a76a-46af-bc03-f35f0c7cc139)
 ![image](https://github.com/user-attachments/assets/fc10f060-2a06-4812-979b-314201c00d8c)
 
