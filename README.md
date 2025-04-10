@@ -91,7 +91,7 @@ resource "docker_container" "nginx" {
 ## **📌 Author**
 **Your Name**  
 📧 sushiltajane569@gmail.com  
-🔗 [GitHub Profile](https://github.com/your-username)  
+🔗 [GitHub Profile]((https://github.com/sushiltajane/Infrastructure-as-Code-IaC-with-Terraform.git))  
 
 ## **📄 License**
 This project is licensed under the **MIT License**.
